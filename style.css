@@ -1,0 +1,23 @@
+#hero-section {
+    background: url('http://treehouse-code-samples.s3.amazonaws.com/bootstrap-4-basics/full-stack-conf/img/jumbo-bg.jpg') no-repeat center center;
+    background-position: 10% 31%;
+    padding:5rem 0;
+}
+
+#person-card .card:hover {
+
+    transform: translateY(-10px);
+    transition-duration: .1s;
+}
+
+#schedules li:hover {
+    background: #f8f9fa;
+}
+
+.profile-picture {
+    float: left;
+    padding: 5px 10px 5px 0;
+}
+.profile-picture img {
+    width: 40px;
+}
